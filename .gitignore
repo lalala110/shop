@@ -3,6 +3,7 @@
 node_modules
 dist
 .*
+123
 
 
 #不忽略的文件
